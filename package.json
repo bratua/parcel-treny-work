@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "parcel-treny-work",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://bratua.github.io/parcel-treny-work",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /parcel-treny-work/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/bratua/parcel-treny-work.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
-  "license": "ISC",
+  "author": "LSP",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/bratua/parcel-treny-work/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
